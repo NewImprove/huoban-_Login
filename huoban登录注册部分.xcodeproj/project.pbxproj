@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C0FE1D91C23D15B00A55BF4 /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C0FE1D11C23D15B00A55BF4 /* RegisterViewController.m */; };
+		9C0FE1DA1C23D15B00A55BF4 /* huobanRegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C0FE1D31C23D15B00A55BF4 /* huobanRegisterViewController.m */; };
+		9C0FE1DB1C23D15B00A55BF4 /* huobanLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C0FE1D51C23D15B00A55BF4 /* huobanLoginViewController.m */; };
+		9C0FE1DC1C23D15B00A55BF4 /* huobanLoginGuideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C0FE1D71C23D15B00A55BF4 /* huobanLoginGuideViewController.m */; };
+		9C0FE1DF1C23D1FD00A55BF4 /* CDPMonitorKeyboard.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C0FE1DE1C23D1FD00A55BF4 /* CDPMonitorKeyboard.m */; };
 		9C3E26C21C2257AF00663299 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3E26C11C2257AF00663299 /* main.m */; };
 		9C3E26C51C2257AF00663299 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3E26C41C2257AF00663299 /* AppDelegate.m */; };
 		9C3E26C81C2257AF00663299 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C3E26C71C2257AF00663299 /* ViewController.m */; };
@@ -36,6 +41,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9C0FE1D11C23D15B00A55BF4 /* RegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterViewController.m; sourceTree = "<group>"; };
+		9C0FE1D21C23D15B00A55BF4 /* RegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterViewController.h; sourceTree = "<group>"; };
+		9C0FE1D31C23D15B00A55BF4 /* huobanRegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = huobanRegisterViewController.m; sourceTree = "<group>"; };
+		9C0FE1D41C23D15B00A55BF4 /* huobanRegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = huobanRegisterViewController.h; sourceTree = "<group>"; };
+		9C0FE1D51C23D15B00A55BF4 /* huobanLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = huobanLoginViewController.m; sourceTree = "<group>"; };
+		9C0FE1D61C23D15B00A55BF4 /* huobanLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = huobanLoginViewController.h; sourceTree = "<group>"; };
+		9C0FE1D71C23D15B00A55BF4 /* huobanLoginGuideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = huobanLoginGuideViewController.m; sourceTree = "<group>"; };
+		9C0FE1D81C23D15B00A55BF4 /* huobanLoginGuideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = huobanLoginGuideViewController.h; sourceTree = "<group>"; };
+		9C0FE1DD1C23D1FD00A55BF4 /* CDPMonitorKeyboard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDPMonitorKeyboard.h; sourceTree = "<group>"; };
+		9C0FE1DE1C23D1FD00A55BF4 /* CDPMonitorKeyboard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDPMonitorKeyboard.m; sourceTree = "<group>"; };
 		9C3E26BD1C2257AF00663299 /* huoban登录注册部分.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "huoban登录注册部分.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C3E26C11C2257AF00663299 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9C3E26C31C2257AF00663299 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -103,6 +118,16 @@
 		9C3E26BF1C2257AF00663299 /* huoban登录注册部分 */ = {
 			isa = PBXGroup;
 			children = (
+				9C0FE1DD1C23D1FD00A55BF4 /* CDPMonitorKeyboard.h */,
+				9C0FE1DE1C23D1FD00A55BF4 /* CDPMonitorKeyboard.m */,
+				9C0FE1D11C23D15B00A55BF4 /* RegisterViewController.m */,
+				9C0FE1D21C23D15B00A55BF4 /* RegisterViewController.h */,
+				9C0FE1D31C23D15B00A55BF4 /* huobanRegisterViewController.m */,
+				9C0FE1D41C23D15B00A55BF4 /* huobanRegisterViewController.h */,
+				9C0FE1D51C23D15B00A55BF4 /* huobanLoginViewController.m */,
+				9C0FE1D61C23D15B00A55BF4 /* huobanLoginViewController.h */,
+				9C0FE1D71C23D15B00A55BF4 /* huobanLoginGuideViewController.m */,
+				9C0FE1D81C23D15B00A55BF4 /* huobanLoginGuideViewController.h */,
 				9C3E26C31C2257AF00663299 /* AppDelegate.h */,
 				9C3E26C41C2257AF00663299 /* AppDelegate.m */,
 				9C3E26C61C2257AF00663299 /* ViewController.h */,
@@ -273,7 +298,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C0FE1D91C23D15B00A55BF4 /* RegisterViewController.m in Sources */,
+				9C0FE1DF1C23D1FD00A55BF4 /* CDPMonitorKeyboard.m in Sources */,
+				9C0FE1DB1C23D15B00A55BF4 /* huobanLoginViewController.m in Sources */,
 				9C3E26CE1C2257AF00663299 /* huoban______.xcdatamodeld in Sources */,
+				9C0FE1DA1C23D15B00A55BF4 /* huobanRegisterViewController.m in Sources */,
+				9C0FE1DC1C23D15B00A55BF4 /* huobanLoginGuideViewController.m in Sources */,
 				9C3E26C81C2257AF00663299 /* ViewController.m in Sources */,
 				9C3E26C51C2257AF00663299 /* AppDelegate.m in Sources */,
 				9C3E26C21C2257AF00663299 /* main.m in Sources */,
@@ -500,6 +530,7 @@
 				9C3E26EF1C2257AF00663299 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C3E26F01C2257AF00663299 /* Build configuration list for PBXNativeTarget "huoban登录注册部分Tests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +539,7 @@
 				9C3E26F21C2257AF00663299 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9C3E26F31C2257AF00663299 /* Build configuration list for PBXNativeTarget "huoban登录注册部分UITests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +548,7 @@
 				9C3E26F51C2257AF00663299 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
